@@ -1,10 +1,7 @@
 #Iae? Aqui é o Davi ✌️
 Bem vindo ao meu cantinho 👊
 
-<!--
-**Davi-GOP/Davi-GOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davyssauro/)
 
 - 📚 Atualmente sou estudante do primiero periodo de TI na UFERSA.
 - 💻 Atualmente estou aprendendo linguagem C.
