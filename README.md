@@ -8,5 +8,5 @@ Bem vindo ao meu cantinho 👊
 
 #Atualmente aprendendo a programar em:
 <div style="display: inline_block"><br/>
-<img align="center" alt="Linguagem C" src"https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img align="center" alt="Linguagem C" src"https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
