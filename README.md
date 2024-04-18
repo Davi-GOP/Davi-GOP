@@ -6,4 +6,19 @@ Bem vindo ao meu cantinho 👊
 
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi-GOP&show_icons=true&theme=cobalt)
 
-👨‍💻Atualmente sou estudante do primeiro perido de T.I na UFERSA e estou aprendendo somente linguagem C
+👨‍💻Linguagens de programação que estou aprendendo no momento:
+
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</div><br/>
+  
+
+Hobbies: 
+
+
+|   |  |
+| ------------- | ------------- |
+| 🚴‍♂️ Pedalar  | 🎮 Videogames |
+| 💪 Musculação |   🍲Cozinhar   |
+
+
