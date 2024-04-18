@@ -23,5 +23,5 @@ Hobbies:
 | ------------- | ------------- |
 | 🚴‍♂️ Pedalar  | 🎮 Videogames |
 | 💪 Musculação |   🍲Cozinhar   |
-
+| 🎧 ouvir musica  | 📖 ler mangás  |
 
