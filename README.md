@@ -6,6 +6,8 @@ Bem vindo ao meu cantinho 👊
 
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi-GOP&show_icons=true&theme=cobalt)
 
+
+📚Atualmente cursando T.I na UFERSA
 👨‍💻Linguagens de programação que estou aprendendo no momento:
 
 <div style="display: inline_block">
