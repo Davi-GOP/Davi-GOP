@@ -6,7 +6,4 @@ Bem vindo ao meu cantinho 👊
 
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davi-GOP&show_icons=true&theme=cobalt)
 
-#Atualmente aprendendo a programar em:
-<div style="display: inline_block"><br/>
-<img align="center" alt="Linguagem C" src"https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</div>
+👨‍💻Atualmente sou estudante do primeiro perido de T.I na UFERSA e estou aprendendo somente linguagem C
